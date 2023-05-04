@@ -5,7 +5,7 @@
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40px"></code>
 <code><img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" width="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40px"></code>
-<code><img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="40px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40px"></code>
 <code><img src="" width="40px"></code>
 <code><img src="" width="40px"></code>
 <code><img src="" width="40px"></code>
