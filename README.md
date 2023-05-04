@@ -7,7 +7,8 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="37px"></code>
 <code><img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="37px"></code>
-<code><img src="https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png" width="40px"></code>
+<code><img src="![image](https://user-images.githubusercontent.com/116643518/236301007-558afec6-4203-4b8b-9b33-4424bd8cd186.png)
+" width="40px"></code>
 <code><img src="" width="40px"></code>
 <code><img src="" width="40px"></code>
 <code><img src="" width="40px"></code>
