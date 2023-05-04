@@ -7,9 +7,8 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="37px"></code>
 <code><img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="37px"></code>
-<code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="37px"></code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="37px"></code>
-<code><img src="https://reactrouter.com/_brand/react-router-stacked-color.png" width="36px"></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="37px"></code>
 <code><img src="" width="40px"></code>
 <code><img src="" width="40px"></code>
 
